@@ -59,7 +59,7 @@ The tasks required to develop the project are divided as shown in the table belo
 3. Each project member must be present on time in the scheduled places.
    - a. Reporting in case of late attendance via WhatsApp or calling.
    - b. There is a 5-minute leeway for lateness.
-   - c. If a member is more than 5 mins late and has not informed the group, they will receive a
+   - c. If a member is more than 5 minutes late and has not informed the group, they will receive a
    warning.
      
 4. Every project member must be easily contactable.
@@ -83,7 +83,7 @@ The tasks required to develop the project are divided as shown in the table belo
    serious illness etc.) to perform the work, the other members must take over the work
    to the best of their ability.
    - b. In the case of unacceptable behavior, a conversation will be entered into with the
-   project leader / coordinator and the project member in question. If no progress is made
+   project leader / coordinator, and the project member in question. If no progress is made
    after this conversation, a warning will be issued each time the project member is
    approached.
      
@@ -184,7 +184,7 @@ The tasks required to develop the project are divided as shown in the table belo
 ###**Choice of subject**
 The subject of our application is social distancing. We have chosen this subject because as we all know,
 Covid-19 is currently extremely relevant. As it is a hot topic, we have decided to use it in our favour
-and create an application about it. We try to shine more light onto social distancing and the importance
+and create an application about it. We try to shine more light onto social distancing, and the importance
 of it as it is one of the necessary things to do to stop Covid-19. However, many people do not keep the
 needed distance. This subject is represented in our application as the main goal of it is to make sure
 the player follows the 1.5 metre rule, even as no one else does. Social distancing is clear all around the
@@ -215,12 +215,12 @@ the game already have experience with this coding language so that will positive
 outcome.
 
 ###***Soundtrack for the game***
-One of the group members has asked his fellow colleague if he would be interested in creating a theme
-song for our game and he agreed. Other required sound effects such as a sound of character moving,
+One of the group members has asked his colleague if he would be interested in creating a theme
+song for our game, and he agreed. Other required sound effects such as a sound of character moving,
 etc., will be downloaded from free open-source website Free Sound.
 ###***What software for the animations?***
 To complete this project, the group will use Adobe animate for animations. Adobe animate supports
-vector but most important bitmap images which will be really useful since the game will be done in
+vector, but most important bitmap images which will be really useful since the game will be done in
 pixels. In addition, it offers the ability to hand draw frame by frame animation where individual layers
 can easily be swapped.
 ###***The team made use of the following media:***
@@ -312,7 +312,7 @@ attacked
 
 In this Chapter, the timetable breaking down the production plan is displayed. Each week will be
 described individually, with a recap in the form of a table at the end of the chapter.
-Due to complications, the production of this application has changed. All of the assets were done prior
+Due to complications, the production of this application has changed. All the assets were done prior
 to the development of the application. Although the final presentation and final application testing
 was done during MMP week.
 ###
